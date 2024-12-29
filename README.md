@@ -3,7 +3,7 @@
     <title>Hira-238 BSCS-I,NUP</title>
     <style>
         body {
-             font-family: Arial, sans-serif;
+             font-family: Arial;
              margin: 20px;
              background-image: url('eso2208-eht-mwa.jpg');
              }
